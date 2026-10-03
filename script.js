@@ -7,7 +7,7 @@
    This is a cute/private website lock, not bank-level security.
 */
 
-const SECRET_PASSWORD = "161225"; // <-- CHANGE THIS
+const SECRET_PASSWORD = "150924"; // <-- CHANGE THIS
 
 const permissionBtn = document.getElementById("permissionBtn");
 const passwordArea = document.getElementById("passwordArea");
